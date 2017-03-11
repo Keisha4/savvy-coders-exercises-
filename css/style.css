@@ -1,0 +1,36 @@
+body{   background-color:lightgreen;
+}
+  h1{
+  color:pink;
+ }
+   h2{
+   color: green;
+ }
+p{
+  font-family: verdana;
+}
+
+img {
+    height: 200px;
+  front-size: 250%;
+}
+.hidden{
+  display: none;
+}
+.round {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+   border-width: 1px;
+   border-style: 4px;
+   padding: 10px 15px;
+ }
+#contact_form{
+  width:400px;
+  margin:0 auto;
+  margin-top:100px;
+
+}
+input, textarea{
+  padding: 10px 15px;
+}
